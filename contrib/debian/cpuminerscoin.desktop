@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=CMC (testnet)
+Comment=Desktop allet for CMC (testnet)
+Comment[de]=Offizieller Client für die Kryptowährung CMC (testnet)
+Exec=cpuminerscoin-qt -testnet %u
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/cpuminerscoin-testnet128.png
+MimeType=x-scheme-handler/cpuminerscoin;
+Categories=Application;Network;

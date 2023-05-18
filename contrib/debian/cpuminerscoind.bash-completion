@@ -1,0 +1,3 @@
+contrib/cpuminerscoind.bash-completion	cpuminerscoind
+contrib/cpuminerscoin-cli.bash-completion	cpuminerscoin-cli
+contrib/cpuminerscoin-tx.bash-completion	cpuminerscoin-tx

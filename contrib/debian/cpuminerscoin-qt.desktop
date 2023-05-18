@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=CMC
+Comment=Desktop allet for CMC
+Comment[de]=Offizieller Client für die Kryptowährung CMC
+Exec=cpuminerscoin-qt %u
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/cpuminerscoin128.png
+MimeType=x-scheme-handler/cpuminerscoin;
+Categories=Office;Finance;
+StartupWMClass=CMC-qt

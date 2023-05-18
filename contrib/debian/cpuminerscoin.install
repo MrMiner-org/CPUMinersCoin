@@ -1,0 +1,11 @@
+usr/local/bin/cpuminerscoin-qt usr/bin
+share/pixmaps/cpuminerscoin16.png usr/share/pixmaps
+share/pixmaps/cpuminerscoin32.png usr/share/pixmaps
+share/pixmaps/cpuminerscoin128.png usr/share/pixmaps
+share/pixmaps/cpuminerscoin256.png usr/share/pixmaps
+share/pixmaps/cpuminerscoin-testnet32.png usr/share/pixmaps
+share/pixmaps/cpuminerscoin-testnet128.png usr/share/pixmaps
+share/pixmaps/cpuminerscoin-testnet256.png usr/share/pixmaps
+debian/cpuminerscoin-qt.desktop usr/share/applications
+debian/cpuminerscoin-testnet-qt.desktop usr/share/applications
+debian/cpuminerscoin-qt.protocol usr/share/kde4/services/
